@@ -4,7 +4,7 @@ This repository contains code and analysis for the US Airlines Flight Delays and
 
 ## Dataset
 
-The dataset used in this project includes three main components: airlines, flights, and airports. These datasets provide information on flight details such as airline codes, flight numbers, origin and destination airports, scheduled departure and arrival times, actual departure and arrival times, delays, cancellations, and reasons for cancellations.
+The dataset used in this project is available on Kaggle [here](https://www.kaggle.com/datasets/usdot/flight-delays). It includes three main components: airlines, flights, and airports. These datasets provide information on flight details such as airline codes, flight numbers, origin and destination airports, scheduled departure and arrival times, actual departure and arrival times, delays, cancellations, and reasons for cancellations.
 
 ## Exploratory Data Analysis (EDA)
 
